@@ -1,14 +1,7 @@
-# Hi, I'm Mert Incesu 👋
+![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=mertincesu&count_private=true&show_icons=true&theme=graywhite) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mertincesu&layout=compact)
 
-Welcome to my GitHub profile! Here's what I'm working on:
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertincesu&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertincesu&show_icons=true&theme=radical)
-
-## 🔭 Current Projects
-- Building AI-powered tools for data analysis.
-- Exploring neural networks for predictive modeling.
-
-## 💬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mertincesu)
+[![](https://img.shields.io/badge/bio-mert.me-blue)](https://mert.me)
+[![](https://img.shields.io/badge/blog-mert.blog-blue)](https://mert.blog)
+[![Linkedin: mertincesu](https://img.shields.io/badge/-mertincesu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertincesu)](https://www.linkedin.com/in/mertincesu)
+[![Twitter: mertincesu](https://img.shields.io/badge/-mertincesu-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/mertincesu)](https://www.twitter.com/mertincesu)
